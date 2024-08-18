@@ -1,51 +1,33 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+### Proposta de projeto idealizada pelo autor Yuri Carvalho Ferreira
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# **Guia Simplificado de Finanças: Ebook de Aprendizado em Renda Fixa e Variável**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta proposta de projeto consiste na criação de um ebook voltado para o aprendizado de finanças pessoais e bons investimentos, com foco em renda fixa e renda variável. O conteúdo será desenvolvido de forma simplificada e direta, permitindo que mesmo aqueles sem conhecimento prévio sobre o tema possam entender e aplicar os conceitos. O ebook terá o objetivo de democratizar o acesso ao conhecimento financeiro, promovendo a educação financeira de forma acessível e prática.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: IA generativa para criação e otimização de conteúdos textuais.
+- **Canva**: Design gráfico para diagramação e visual estética do ebook.
+- **DALL-E**: Geração de imagens ilustrativas para enriquecer a experiência do leitor.
+- **Google Sheets**: Modelagem de exemplos práticos de renda fixa e variável.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 **Processo de Criação**
+1. **Pesquisa de Conteúdo**: Revisão de conceitos fundamentais de finanças e investimentos, com foco em renda fixa (CDBs, LCIs, Tesouro Direto) e renda variável (ações, fundos imobiliários, ETFs), buscados em sites e canias de youtube de grande relevância (Me Poupe!, Professor Mira, Jovens na Bolsa, O Primo Rico).
+2. **Simplificação**: O conteúdo será adaptado para uma linguagem acessível, utilizando exemplos práticos e metáforas do cotidiano.
+3. **Diagramação**: O Canva será utilizado para criar um design atraente, com ilustrações e gráficos que facilitam a compreensão.
+4. **Revisão**: O texto será revisado para garantir clareza, precisão e coerência com o objetivo educacional.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 **Resultados**
+- Um ebook de fácil leitura, com uma abordagem amigável para iniciantes em finanças.
+- Ilustrações que tornam o conteúdo visualmente atraente e didático.
+- Exemplos práticos que mostram como aplicar os conceitos de renda fixa e variável na vida real.
+- Acessibilidade: conteúdo disponível em formato digital para download gratuito.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 **Reflexão (Opcional)**
+Criar conteúdo financeiro de forma "natty" com IA será um desafio interessante. A IA pode auxiliar muito e facilitar a criação de textos e exemplos claros, mas será essencial garantir que o tom se mantenha humano e que possa atrair o leitor. Equilibrar a precisão técnica com a simplicidade exige ajustes constantes para que o conteúdo não perca a acessibilidade, mantenho-se atualizado constantemente.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
